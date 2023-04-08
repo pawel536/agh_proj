@@ -1,9 +1,17 @@
 # agh_proj
 
+<br>
+**PYTHON**<br>
+tbd
 
-MATLAB
-S4_METODY NUMERYCZNE - interpolacja, aproksymacja, całkowanie i pochodne numeryczne
+<br>
+**MATLAB**<br>
+S4 METODY NUMERYCZNE - interpolacja, aproksymacja, całkowanie i pochodne numeryczne
 
+<br>
+**R**<br>
+S4 MODELOWANIE STATYSTYCZNE - modelowanie liniowe i wielomianowe
 
-R
-S4_MODELOWANIE STATYSTYCZNE
+<br>
+**C/C++**<br>
+tbd
