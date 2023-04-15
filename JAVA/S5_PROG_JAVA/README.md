@@ -1,0 +1,1 @@
+notka: plik j5_Mikro.java to wynik pracy grupowej z Kacprem Mullerem, który wykonał większość
